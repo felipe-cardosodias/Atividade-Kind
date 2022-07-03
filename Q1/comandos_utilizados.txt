@@ -1,0 +1,4 @@
+#comandos utilizados para responder o desafio:
+
+kubectl taint nodes worker1 key1=value1:NoExecute
+kubectl taint nodes worker1 key1=value1:NoExecute

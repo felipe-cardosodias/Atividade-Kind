@@ -1,0 +1,3 @@
+kubectl taint nodes worker1 key1=value1:NoSchedule
+kubectl taint nodes worker2 key1=value1:NoSchedule
+
